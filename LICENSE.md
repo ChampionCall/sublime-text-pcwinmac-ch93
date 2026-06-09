@@ -1,4 +1,4 @@
-# 
+# Nuevo Sublime Text plugins para Mac OS | Actualizado Sublime Text plugins para PC Windows. Con editor dividido y monitorización de API — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
